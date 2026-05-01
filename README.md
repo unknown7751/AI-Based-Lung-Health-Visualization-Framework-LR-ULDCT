@@ -1,4 +1,4 @@
-# COVID-19 ULDCT Enhancement and Segmentation Pipeline
+# ULDCT Enhancement and Segmentation Pipeline
 
 ## Project Overview
 This project presents a state-of-the-art 5-Stage 2D Medical CT Enhancement and Analysis Pipeline. It is engineered to take Ultra-Low-Dose CT (ULDCT) scans, clean the quantum noise, hallucinate lost high-frequency details, segment the anatomical structures, and deterministically output an objective clinical severity score.
